@@ -37,3 +37,8 @@ Ancak Sequences verileri eager aksine toptan değil öğeleri tek tek alıp tüm
 ![image](https://user-images.githubusercontent.com/70481060/188328949-b4c45e9f-1da9-42df-a49b-6c1ff0db0f70.png)
 ![sequence-processing](https://user-images.githubusercontent.com/70481060/188328962-b0b332e3-f990-4091-81dd-f7a795d6b9bd.png)
 
+### App Video
+
+
+https://user-images.githubusercontent.com/70481060/188329599-a9df2473-39f9-4a96-b0f4-f1e042459fcd.mp4
+
